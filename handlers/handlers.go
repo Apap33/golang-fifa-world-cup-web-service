@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"Avi/Projects/golang-fifa-world-cup-web-service/data"
+	"github.com/Apap33/golang-fifa-world-cup-web-service/data"
 	"net/http"
 )
 
